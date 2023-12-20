@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.27.0](https://github.com/googleapis/google-cloud-java/compare/v1.26.0...v1.27.0) (2023-12-20)
+
+
+### Features
+
+* update new client generation to include rest/rpc documentation … ([#10078](https://github.com/googleapis/google-cloud-java/issues/10078)) ([120f75d](https://github.com/googleapis/google-cloud-java/commit/120f75dc2b3da1ef96f60c969562732aa7c533b2))
+
+
+### Bug Fixes
+
+* [vertexai] Use default scopes from Prediction Service to create application default credentials if scopes are empty. ([#10169](https://github.com/googleapis/google-cloud-java/issues/10169)) ([081f276](https://github.com/googleapis/google-cloud-java/commit/081f276ba6be9fe980d3ecdcf4ea2c3edbc24fe9))
+
+
+### Documentation
+
+* update new client generation instructions ([#9931](https://github.com/googleapis/google-cloud-java/issues/9931)) ([233e9c4](https://github.com/googleapis/google-cloud-java/commit/233e9c41a51f420289506ec298dd4e7fa24437cf))
+
 ## [1.26.0](https://github.com/googleapis/google-cloud-java/compare/v1.25.0...v1.26.0) (2023-12-12)
 
 
